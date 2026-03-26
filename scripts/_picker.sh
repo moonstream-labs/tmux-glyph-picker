@@ -77,9 +77,10 @@ if [[ -z "$GLYPH" ]]; then
 fi
 
 # ── Rename the window ──
+# Append a trailing space to avoid sizing quirks with single-glyph names.
 if [[ "$MODE" == "new" && -n "$TARGET_WINDOW" ]]; then
-    tmux rename-window -t "$TARGET_WINDOW" "$GLYPH"
+    tmux rename-window -t "$TARGET_WINDOW" "$GLYPH "
 else
     # Rename current window
-    tmux rename-window "$GLYPH"
+    tmux rename-window "$GLYPH "
 fi
