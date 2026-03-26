@@ -1,0 +1,62 @@
+# section	label	codepoint
+# Lines starting with # are comments and ignored by consumers.
+# Codepoint is a hex value (with 0x prefix) for the Nerd Font glyph.
+Formatting	Left Semicircle	0xE0B6
+Formatting	Right Semicircle	0xE0B4
+Formatting	Left Triangle	0xE0B2
+Formatting	Right Triangle	0xE0B0
+User & Tools	User	0xF007
+User & Tools	Settings 1	0xF013
+User & Tools	Settings 2	0xE690
+User & Tools	Toolbox	0xEE1B
+User & Tools	Tools	0xE20F
+User & Tools	Mail	0xF0E0
+User & Tools	Calendar	0xF073
+User & Tools	Pencil	0xF01F
+User & Tools	Search	0xE68F
+User & Tools	Lightbulb 1	0xEA61
+User & Tools	Lightbulb 2	0xF0EB
+Languages	JavaScript 1	0xE60C
+Languages	JavaScript 2	0xE781
+Languages	Python 1	0xED1B
+Languages	Python 2	0xF0320
+Languages	Go 1	0xF07D3
+Languages	Go 2	0xE627
+Security	Shield 1	0xF132
+Security	Shield 2	0xED25
+Security	Lock	0xF023
+Security	Key	0xF084
+Media	Camera 1	0xF030
+Media	Camera 2	0xF03D
+Media	Image	0xF03E
+Media	Video	0xF52C
+Media	Microphone	0xF130
+Environment	Home	0xF015
+Environment	Cloud	0xF0C2
+Environment	Database	0xF1C0
+Environment	Server	0xF048B
+Environment	Localhost	0xF0AC
+Environment	Cube	0xF01A6
+Environment	Box	0xED75
+Environment	Raspberry Pi	0xEF5C
+Environment	Droid	0xE70E
+Devices	Laptop	0xF109
+Devices	Desktop	0xF108
+Devices	Phone	0xF095
+Devices	Mobile	0xF10B
+Devices	Cellular	0xF08BE
+Devices	Keyboard	0xF11C
+Developer	Terminal	0xF489
+Developer	Command Line	0xF120
+Developer	Multiplexer	0xEBC8
+Developer	Code	0xF121
+Developer	Git	0xF1D3
+Developer	Branch	0xF126
+Developer	Docker	0xF21F
+Developer	Robot	0xF06A9
+Developer	Assistant	0xF0064
+Documents	Documentation	0xEDE2
+Documents	Document	0xF1517
+Documents	Folder	0xF07B
+Documents	Filetree	0xEF81
+Documents	Code Page	0xF0626
