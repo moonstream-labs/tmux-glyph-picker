@@ -1,6 +1,6 @@
 # section	label	codepoint
 # Lines starting with # are comments and ignored by consumers.
-# Codepoint is a hex value (with 0x prefix) for the Nerd Font glyph.
+# Codepoint is a hex value (with 0x prefix): a Nerd Font glyph or a standard Unicode codepoint.
 Formatting	Left Semicircle	0xE0B6
 Formatting	Right Semicircle	0xE0B4
 Formatting	Left Triangle	0xE0B2
@@ -55,6 +55,7 @@ Developer	Branch	0xF126
 Developer	Docker	0xF21F
 Developer	Robot	0xF06A9
 Developer	Assistant	0xF0064
+Developer	Codex	0x2726
 Documents	Documentation	0xEDE2
 Documents	Document	0xF1517
 Documents	Folder	0xF07B
